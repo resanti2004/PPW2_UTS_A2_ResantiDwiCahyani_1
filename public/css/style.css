@@ -1,0 +1,25 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+main {
+    padding-top: 20px;
+}
+
+header{
+    padding-top: 20px;
+}
+
+/* .container {
+    flex: 1;
+  } */
+
+footer {
+    margin-top: auto;
+  }
+
+footer .card .card-body{
+    text-align: center;
+}
